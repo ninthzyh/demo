@@ -1,0 +1,65 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "login": {
+    "username": "zyh",
+    "userId": 123
+  },
+  "getPrice": {
+    "buyNum": 1,
+    "buyType": 0,
+    "period": 0,
+    "versions": "0"
+  },
+  "createOrder": {
+    "buyNum": 1,
+    "buyType": 0,
+    "period": 0,
+    "versions": "0"
+  },
+  "checkOrder": {},
+  "getOrderList": {
+    "query": "",
+    "productsId": 0
+  },
+  "getBoardList": [
+    {
+      "title": "开放产品",
+      "description": "是一款开放产品",
+      "id": "car",
+      "saleout": false
+    },
+    {
+      "title": "品牌营销",
+      "description": "帮产品找到定位",
+      "id": "loud",
+      "saleout": false
+    },
+    {
+      "title": "使命必达",
+      "description": "保持最前端的速度",
+      "id": "earth",
+      "saleout": true
+    }
+  ]
+}
